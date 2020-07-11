@@ -1,0 +1,39 @@
+[
+   {
+       "name":"Leon James",
+       "rating":"4",
+       "about":"https://en.wikipedia.org/wiki/Leon_James_(composer)",
+       "image_url":"https://a10.gaanacdn.com/images/artists/30/55130/crop_175x175_55130.jpg"
+   },
+   {
+       "name":"Anirudh Ravichander",
+       "rating":"4",
+       "about":"https://en.wikipedia.org/wiki/Anirudh_Ravichander",
+       "image_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Anirudh_Ravichander_at_Audi_Ritz_Style_Awards_2017.jpg/220px-Anirudh_Ravichander_at_Audi_Ritz_Style_Awards_2017.jpg"
+   },
+   {
+       "name":"Gopi Sundar",
+       "rating":"4",
+       "about":"https://en.wikipedia.org/wiki/Gopi_Sundar",
+       "image_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Gopi_Sunder_-_16.jpg/220px-Gopi_Sunder_-_16.jpg"
+   },
+   {
+       "name":"Ajaneesh Loknath",
+       "rating":"4",
+       "about":"https://en.wikipedia.org/wiki/B._Ajaneesh_Loknath",
+       "image_url":"https://a10.gaanacdn.com/images/artists/45/137445/crop_175x175_137445.jpg"
+   },
+   {
+       "name":"Devi Sri Prasad",
+       "rating":"4",
+       "about":"https://en.wikipedia.org/wiki/Devi_Sri_Prasad",
+       "image_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Devi_sri_prasad.jpg/220px-Devi_sri_prasad.jpg"
+   },
+   {
+       "name":"A. R. Rahman",
+       "rating":"5",
+       "about":"https://en.wikipedia.org/wiki/A._R._Rahman",
+       "image_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/A._R._Rahman.jpg/220px-A._R._Rahman.jpg"
+   }
+    
+]
